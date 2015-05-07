@@ -1,0 +1,269 @@
+Array
+(
+    [0] => Array
+        (
+            [file] => src\ActiveField.php
+            [message] => broken link to \yii\bootstrap\Nav in vitalik74\primer\ActiveField
+        )
+
+    [1] => Array
+        (
+            [file] => src\ActiveField.php
+            [message] => broken link to \yii\bootstrap\Nav in vitalik74\primer\ActiveField
+        )
+
+    [2] => Array
+        (
+            [file] => src\ActiveField.php
+            [message] => broken link to \yii\bootstrap\Nav in vitalik74\primer\ActiveField
+        )
+
+    [3] => Array
+        (
+            [line] => 48
+            [file] => src\ActiveField.php
+            [message] => Method begin has no parent to inherit from in vitalik74\primer\ActiveField.
+        )
+
+    [4] => Array
+        (
+            [line] => 58
+            [file] => src\ActiveField.php
+            [message] => Method end has no parent to inherit from in vitalik74\primer\ActiveField.
+        )
+
+    [5] => Array
+        (
+            [line] => 68
+            [file] => src\ActiveField.php
+            [message] => Method render has no parent to inherit from in vitalik74\primer\ActiveField.
+        )
+
+    [6] => Array
+        (
+            [file] => src\ActiveForm.php
+            [message] => broken link to \yii\bootstrap\Nav in vitalik74\primer\ActiveForm
+        )
+
+    [7] => Array
+        (
+            [file] => src\ActiveForm.php
+            [message] => broken link to \yii\bootstrap\Nav in vitalik74\primer\ActiveForm
+        )
+
+    [8] => Array
+        (
+            [file] => src\ActiveForm.php
+            [message] => broken link to \yii\bootstrap\Nav in vitalik74\primer\ActiveForm
+        )
+
+    [9] => Array
+        (
+            [line] => 33
+            [file] => src\ActiveForm.php
+            [message] => No docblock for element '$fieldClass'
+        )
+
+    [10] => Array
+        (
+            [line] => 33
+            [file] => src\ActiveForm.php
+            [message] => No short description for element '$fieldClass'
+        )
+
+    [11] => Array
+        (
+            [file] => src\Alerts.php
+            [message] => broken link to \vitalik74\primer\vitalik74\primer\UtilsTrait in vitalik74\primer\Alerts
+        )
+
+    [12] => Array
+        (
+            [file] => src\Alerts.php
+            [message] => broken link to \yii\helpers\Html::tag() in vitalik74\primer\Alerts
+        )
+
+    [13] => Array
+        (
+            [file] => src\Alerts.php
+            [message] => broken link to \yii\helpers\Html::tag() in vitalik74\primer\Alerts
+        )
+
+    [14] => Array
+        (
+            [file] => src\Alerts.php
+            [message] => broken link to \yii\helpers\Html::tag() in vitalik74\primer\Alerts
+        )
+
+    [15] => Array
+        (
+            [file] => src\Avatar.php
+            [message] => broken link to \yii\helpers\Html::tag() in vitalik74\primer\Avatar
+        )
+
+    [16] => Array
+        (
+            [file] => src\Avatar.php
+            [message] => broken link to \yii\helpers\Html::tag() in vitalik74\primer\Avatar
+        )
+
+    [17] => Array
+        (
+            [line] => 75
+            [file] => src\Avatar.php
+            [message] => Undefined parameter documented: $options['parent' in avatarParent().
+        )
+
+    [18] => Array
+        (
+            [file] => src\Blankslate.php
+            [message] => broken link to \vitalik74\primer\vitalik74\primer\UtilsTrait in vitalik74\primer\Blankslate
+        )
+
+    [19] => Array
+        (
+            [file] => src\Blankslate.php
+            [message] => broken link to \yii\helpers\Html::tag() in vitalik74\primer\Blankslate
+        )
+
+    [20] => Array
+        (
+            [file] => src\Blankslate.php
+            [message] => broken link to \yii\helpers\Html::tag() in vitalik74\primer\Blankslate
+        )
+
+    [21] => Array
+        (
+            [file] => src\Blankslate.php
+            [message] => broken link to vitalik74\primer\Blankslate::_typesBlankslate in vitalik74\primer\Blankslate
+        )
+
+    [22] => Array
+        (
+            [file] => src\Button.php
+            [message] => broken link to \vitalik74\primer\vitalik74\primer\UtilsTrait in vitalik74\primer\Button
+        )
+
+    [23] => Array
+        (
+            [file] => src\FilterList.php
+            [message] => broken link to \yii\bootstrap\Nav in vitalik74\primer\FilterList
+        )
+
+    [24] => Array
+        (
+            [file] => src\FilterList.php
+            [message] => broken link to \yii\bootstrap\Nav in vitalik74\primer\FilterList
+        )
+
+    [25] => Array
+        (
+            [file] => src\FilterList.php
+            [message] => broken link to \yii\bootstrap\Nav in vitalik74\primer\FilterList
+        )
+
+    [26] => Array
+        (
+            [line] => 35
+            [file] => src\FilterList.php
+            [message] => Method run has no parent to inherit from in vitalik74\primer\FilterList.
+        )
+
+    [27] => Array
+        (
+            [line] => 43
+            [file] => src\FilterList.php
+            [message] => Method init has no parent to inherit from in vitalik74\primer\FilterList.
+        )
+
+    [28] => Array
+        (
+            [line] => 52
+            [file] => src\FilterList.php
+            [message] => Method renderItems has no parent to inherit from in vitalik74\primer\FilterList.
+        )
+
+    [29] => Array
+        (
+            [line] => 68
+            [file] => src\FilterList.php
+            [message] => Method renderItem has no parent to inherit from in vitalik74\primer\FilterList.
+        )
+
+    [30] => Array
+        (
+            [file] => src\Nav.php
+            [message] => broken link to \yii\bootstrap\Nav in vitalik74\primer\Nav
+        )
+
+    [31] => Array
+        (
+            [file] => src\Nav.php
+            [message] => broken link to \yii\bootstrap\Nav in vitalik74\primer\Nav
+        )
+
+    [32] => Array
+        (
+            [file] => src\Nav.php
+            [message] => broken link to \yii\bootstrap\Nav in vitalik74\primer\Nav
+        )
+
+    [33] => Array
+        (
+            [line] => 37
+            [file] => src\Nav.php
+            [message] => Method run has no parent to inherit from in vitalik74\primer\Nav.
+        )
+
+    [34] => Array
+        (
+            [line] => 45
+            [file] => src\Nav.php
+            [message] => Method init has no parent to inherit from in vitalik74\primer\Nav.
+        )
+
+    [35] => Array
+        (
+            [line] => 54
+            [file] => src\Nav.php
+            [message] => Method renderItems has no parent to inherit from in vitalik74\primer\Nav.
+        )
+
+    [36] => Array
+        (
+            [line] => 70
+            [file] => src\Nav.php
+            [message] => Method renderItem has no parent to inherit from in vitalik74\primer\Nav.
+        )
+
+    [37] => Array
+        (
+            [file] => src\State.php
+            [message] => broken link to \yii\helpers\Html::tag() in vitalik74\primer\State
+        )
+
+    [38] => Array
+        (
+            [file] => src\TabNav.php
+            [message] => broken link to \yii\bootstrap\NavBar in vitalik74\primer\TabNav
+        )
+
+    [39] => Array
+        (
+            [file] => src\TabNav.php
+            [message] => broken link to \yii\bootstrap\NavBar in vitalik74\primer\TabNav
+        )
+
+    [40] => Array
+        (
+            [file] => src\TabNav.php
+            [message] => broken link to \yii\bootstrap\NavBar in vitalik74\primer\TabNav
+        )
+
+    [41] => Array
+        (
+            [file] => src\Tooltip.php
+            [message] => broken link to \yii\helpers\Html::tag() in vitalik74\primer\Tooltip
+        )
+
+)
